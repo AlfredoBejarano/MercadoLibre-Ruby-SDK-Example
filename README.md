@@ -1,4 +1,4 @@
-MercadoLibre Ruby On Rails SDK usage Example
+MercadoLibre Ruby SDK usage Example
 
 Example of how to do a GET call for a user searching for something
 
@@ -6,7 +6,10 @@ Example of how to do a GET call for a user searching for something
 
 * Rails version 4.2.4
 
-You need to run >_ ruby GetQueryExample.rb to see the magic work!
+You need to run:
+* >_ ruby GetQueryExample.rb
+
+to see the magic work!
 
 Cheers lads!
 
