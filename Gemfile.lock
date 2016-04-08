@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.3)
+    meli (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  meli
+
+BUNDLED WITH
+   1.11.2

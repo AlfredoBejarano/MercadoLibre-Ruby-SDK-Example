@@ -1,6 +1,11 @@
+# Bundler enviroment
 require 'rubygems'
+require 'bundler/setup'
+
+# Gems
 require 'json'
 require 'meli'
+
 require './PrintItems'
 class GetResponse
   def GetItems(item)
