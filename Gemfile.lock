@@ -3,6 +3,7 @@ GEM
   specs:
     json (1.8.3)
     meli (1.0.2)
+    rake (11.1.2)
 
 PLATFORMS
   ruby
@@ -10,6 +11,7 @@ PLATFORMS
 DEPENDENCIES
   json
   meli
+  rake
 
 BUNDLED WITH
    1.11.2
